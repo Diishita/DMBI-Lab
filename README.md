@@ -29,6 +29,7 @@ Repository for Data Mining and Business Intelligence (DMBI) coursework, laborato
 | [`Exp7_KMeans_RapidMiner/`](file:///c:/Users/Sanjog/Downloads/DMBI-Lab/Exp7_KMeans_RapidMiner) | Experiment 7: K-Means RapidMiner | Graphical workflow and cluster validation using RapidMiner Studio |
 | [`Exp8_Apriori_Association/`](file:///c:/Users/Sanjog/Downloads/DMBI-Lab/Exp8_Apriori_Association) | Experiment 8: Apriori Association | Market basket analysis and frequent itemset generation using Apriori algorithm in Python |
 | [`Exp9_FP_Growth_RapidMiner/`](file:///c:/Users/Sanjog/Downloads/DMBI-Lab/Exp9_FP_Growth_RapidMiner) | Experiment 9: FP-Growth RapidMiner | Frequent pattern mining using FP-Growth and association rule evaluation in RapidMiner |
+| [`Exp10_Mini_Project_App/`](file:///c:/Users/Sanjog/Downloads/DMBI-Lab/Exp10_Mini_Project_App) | Experiment 10: Interactive BI Dashboard (CA2) | Full-stack Decision Support System in Streamlit: Star Schema OLAP, Outlier Diagnostics, K-Means, Churn Models, & Recommender |
 
 ---
 
