@@ -7,7 +7,7 @@ Course: Data Mining and Business Intelligence (DMBI Lab) — Roll No. 38.
 
 - **Dataset:** `JioHotstar_Preprocessed_Dataset.csv` (33,171 records x 23 columns). Included in this folder.
 - **Licence Limit:** Altair AI Studio Free licence processes 10,000 examples.
-- **Report Document:** `EXP-7_DMBI_40_KMeans_RapidMiner.docx`
+- **Report Document:** `EXP-7_DMBI_38_KMeans_RapidMiner.pdf`
 
 ## Python Implementation
 Run the Python script that implements the exact RapidMiner workflow and generates the comparative evaluation table:

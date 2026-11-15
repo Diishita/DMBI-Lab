@@ -9,7 +9,7 @@ Course: Data Mining and Business Intelligence (DMBI Lab) — Roll No. 38.
   - `JioHotstar_Preprocessed_Dataset.csv` (33,171 records x 23 columns).
   - `JioHotstar_Association_Transactions.csv` (33,171 transactions x 7 binary attributes).
 - **Licence Limit:** Altair AI Studio Free licence processes 10,000 examples.
-- **Report Document:** `EXP-9_DMBI_40_FPGrowth_RapidMiner.docx`
+- **Report Document:** `EXP-9_DMBI_38_FPGrowth_RapidMiner.pdf`
 
 ## Python Implementation
 Run the Python script that implements FP-Growth using `mlxtend` and compares execution performance with Apriori:
