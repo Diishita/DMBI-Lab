@@ -1,6 +1,6 @@
 # Experiment 9: FP-Growth Association Rules in RapidMiner (Altair AI Studio) & Python
 
-Course: Data Mining and Business Intelligence (DMBI Lab) — Roll No. 38.
+Course: Data Mining and Business Intelligence (DMBI Lab) — Roll No. 56.
 
 ## RapidMiner Process (Design View)
 `Retrieve (JioHotstar association transactions) -> Numerical to Binominal -> FP-Growth (min support 0.05) -> Create Association Rules (min confidence 0.30)`

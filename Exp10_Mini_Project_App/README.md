@@ -1,6 +1,6 @@
 # Experiment 10: Decision Support System & Interactive BI Dashboard (CA2 Mini Project)
 
-Course: Data Mining and Business Intelligence (DMBI Lab) — Roll No. 38 (Sanjog Poojary).
+Course: Data Mining and Business Intelligence (DMBI Lab) — Roll No. 56 (Archiet Tanwar).
 
 ---
 
@@ -8,9 +8,9 @@ Course: Data Mining and Business Intelligence (DMBI Lab) — Roll No. 38 (Sanjog
 
 Experiment 10 encapsulates the full-stack **CA2 Mini Project**: an end-to-end Decision Support System (DSS) and Business Intelligence (BI) Dashboard for video streaming platform analytics. The application synthesizes core DMBI coursework modules into an interactive Streamlit web dashboard.
 
-- **Report Document (DOCX):** [`EXP-10_DMBI_38_MiniProject_App.docx`](file:///c:/Users/Sanjog/Downloads/DMBI-Lab/Exp10_Mini_Project_App/EXP-10_DMBI_38_MiniProject_App.docx)
-- **Report Document (PDF):** [`EXP-10_DMBI_38_MiniProject_App.pdf`](file:///c:/Users/Sanjog/Downloads/DMBI-Lab/Exp10_Mini_Project_App/EXP-10_DMBI_38_MiniProject_App.pdf)
-- **Interactive Application Code:** [`CA2_Mini_Project/`](file:///c:/Users/Sanjog/Downloads/DMBI-Lab/CA2_Mini_Project)
+- **Report Document (DOCX):** [`EXP-10_DMBI_56_MiniProject_App.docx`](file:///c:/Sem5/FSD/DMBI-Lab/Exp10_Mini_Project_App/EXP-10_DMBI_56_MiniProject_App.docx)
+- **Report Document (PDF):** [`EXP-10_DMBI_38_MiniProject_App.pdf`](file:///c:/Sem5/FSD/DMBI-Lab/Exp10_Mini_Project_App/EXP-10_DMBI_38_MiniProject_App.pdf)
+- **Interactive Application Code:** [`CA2_Mini_Project/`](file:///c:/Sem5/FSD/DMBI-Lab/CA2_Mini_Project)
 
 ---
 
@@ -30,7 +30,7 @@ Experiment 10 encapsulates the full-stack **CA2 Mini Project**: an end-to-end De
 ## How to Run the Mini Project App
 
 ### Option 1 — Batch Launcher (Windows)
-Double-click [`run_app.bat`](file:///c:/Users/Sanjog/Downloads/DMBI-Lab/run_app.bat) in the repository root.
+Double-click [`run_app.bat`](file:///c:/Sem5/FSD/DMBI-Lab/run_app.bat) in the repository root.
 
 ### Option 2 — Terminal Command
 ```bash

@@ -1,6 +1,6 @@
 """
 Experiment 9: FP-Growth Association Rule Mining in Python (RapidMiner Comparison).
-Course: Data Mining and Business Intelligence (DMBI Lab) — Roll No. 38.
+Course: Data Mining and Business Intelligence (DMBI Lab) — Roll No. 56.
 
 Implements the Frequent Pattern Growth (FP-Growth) algorithm using mlxtend.
 Mirrors the RapidMiner Studio operator pipeline:
