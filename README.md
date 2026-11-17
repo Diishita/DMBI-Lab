@@ -1,4 +1,4 @@
-# DMBI Lab — Video Streaming Platform (Roll No. 56)
+# DMBI Lab — Video Streaming Platform — Dishita Butani (D15A, Roll No. 66)
 
 Repository for Data Mining and Business Intelligence (DMBI) coursework, laboratory practicals, and Continuous Assessment (CA) submissions.
 
