@@ -1,6 +1,6 @@
 # Experiment 10: Decision Support System & Interactive BI Dashboard (CA2 Mini Project)
 
-Course: Data Mining and Business Intelligence (DMBI Lab) — Roll No. 56 (Archiet Tanwar).
+Course: Data Mining and Business Intelligence (DMBI Lab) — Dishita Butani, D15A, Roll No. 66.
 
 ---
 
@@ -8,8 +8,7 @@ Course: Data Mining and Business Intelligence (DMBI Lab) — Roll No. 56 (Archie
 
 Experiment 10 encapsulates the full-stack **CA2 Mini Project**: an end-to-end Decision Support System (DSS) and Business Intelligence (BI) Dashboard for video streaming platform analytics. The application synthesizes core DMBI coursework modules into an interactive Streamlit web dashboard.
 
-- **Report Document (DOCX):** [`EXP-10_DMBI_56_MiniProject_App.docx`](file:///c:/Sem5/FSD/DMBI-Lab/Exp10_Mini_Project_App/EXP-10_DMBI_56_MiniProject_App.docx)
-- **Report Document (PDF):** [`EXP-10_DMBI_38_MiniProject_App.pdf`](file:///c:/Sem5/FSD/DMBI-Lab/Exp10_Mini_Project_App/EXP-10_DMBI_38_MiniProject_App.pdf)
+- **Report Document (DOCX):** [`EXP-10DMBI_66_MiniProjectApp.docx`](./EXP-10DMBI_66_MiniProjectApp.docx)
 - **Interactive Application Code:** [`CA2_Mini_Project/`](file:///c:/Sem5/FSD/DMBI-Lab/CA2_Mini_Project)
 
 ---
