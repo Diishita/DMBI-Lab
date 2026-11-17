@@ -1,6 +1,6 @@
 """
 Experiment 7: K-Means Clustering Workflow in Python (RapidMiner Comparison).
-Course: Data Mining and Business Intelligence (DMBI Lab) — Roll No. 56.
+Course: Data Mining and Business Intelligence (DMBI Lab) — Dishita Butani, D15A, Roll No. 66.
 
 Mirrors the RapidMiner Studio operator pipeline:
   [Retrieve] -> [Select Attributes] -> [Replace Missing Values] -> [Normalize (Z-score)] -> [K-Means (k=4)]
